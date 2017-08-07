@@ -7,7 +7,7 @@ Données issues :
 URL : http://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/downloads.html<br>
 <li>du classement <i>Global Fortune</i> des 500 plus grandes firmes en 2016 consulté en juillet 2017 ;</br>
 URL : http://fortune.com/global500/list/filtered?industry=Petroleum%20Refining<br>
-<li>du site de l'Organisation des Pays Exportateurs de Pétrole (OPEP) consulté en juillet 201 ;7<br>
+<li>du site de l'Organisation des Pays Exportateurs de Pétrole (OPEP) consulté en juillet 2017 ;<br>
 URL : http://www.opec.org/opec_web/en/about_us/25.htm<br>
 <li>du site de l'<i>United States Energy Information Administration</i> consulté en août 2017 ;<br>
 URL : https://www.eia.gov/todayinenergy/detail.php?id=32292<br>
