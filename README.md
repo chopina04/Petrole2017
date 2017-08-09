@@ -26,5 +26,5 @@ La succession des marées noires peut être affichée de manière dynamique à l
 Fond vectoriel issu de GISCO<br>
 URL : http://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/countries<br>
 
-Données mises en forme avec QGIS dans se version 2.18.9.
+Données mises en forme avec QGIS dans sa version 2.18.9.
 
